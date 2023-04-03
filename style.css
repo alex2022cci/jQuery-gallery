@@ -1,0 +1,12 @@
+.thumbnail {
+    display: inline-block;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+  }
+  
+  .thumbnail img {
+    width: 100%;
+  }
+  
